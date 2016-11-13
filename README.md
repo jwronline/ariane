@@ -1,10 +1,10 @@
 # Ariane V
 
-This are the decals you can use for an Ariane V model. Based on Wikimedia sources, edited by Haroen Viaene.
+This are the decals you can use for an Ariane V model. Based on WikiMedia sources, edited by Haroen Viaene.
 
 Made for a water pressure rocket for JWR in 2015-2016. First launched on 13 November 2016.
 
-![finished Ariane V rocket]()
+![finished Ariane V rocket](finished.jpg)
 
 # Files
 
